@@ -58,6 +58,7 @@ Modern AI assistants are increasingly expected to understand visual data from ca
 ---
 
 ## 4. Project Structure
+```text
 /video-understanding-toolkit
 |
 |-- /data/
@@ -80,3 +81,4 @@ Modern AI assistants are increasingly expected to understand visual data from ca
 |-- app.py                        # A Streamlit app to demo the toolkit
 |-- requirements.txt
 |-- README.md
+```
