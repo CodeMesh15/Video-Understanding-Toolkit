@@ -1,0 +1,20 @@
+# Core ML/DL and data handling
+torch
+torchvision
+numpy
+pandas
+tqdm
+
+# Video and Image processing
+opencv-python
+Pillow
+
+# Text processing for VQA
+transformers
+sentencepiece
+
+# Clustering for Summarization
+scikit-learn
+
+# The application framework
+streamlit
